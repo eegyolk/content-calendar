@@ -8,7 +8,7 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dev.egumanjr</groupId>
+	<groupId>dev.eguzmanjr</groupId>
 	<artifactId>content-calendar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>content-calendar</name>
